@@ -1,7 +1,7 @@
 # Jogo-Mentalista 
 ## Projeto para a Imersão Dev Alura
 ### Como Jogar:
-### Digite um número e click em chutar, aproveite as dicas e boa sorte!
+### Digite um número de 0 a 10 e click em chutar, aproveite as dicas e boa sorte!
 ## <br>
 
 <div align="center">
